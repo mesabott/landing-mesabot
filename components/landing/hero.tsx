@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react"
 import { Button } from "@/components/ui/button"
 import { ArrowRight, Clock, Star, Zap, Calendar } from "lucide-react"
 
-const WHATSAPP_LINK = "https://wa.me/526683233902?text=Hola!+Quiero+una+demo+de+MesaBot"
+const WHATSAPP_LINK = "https://wa.me/526681464573?text=Hola!+Quiero+una+demo+de+MesaBot"
 
 const stats = [
   { icon: Clock, value: "3seg", label: "respuesta" },

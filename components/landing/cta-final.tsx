@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react"
 import { Button } from "@/components/ui/button"
 import { ArrowRight, Phone } from "lucide-react"
 
-const WHATSAPP_LINK = "https://wa.me/526683233902?text=Hola!+Quiero+una+demo+de+MesaBot"
+const WHATSAPP_LINK = "https://wa.me/526681464573?text=Hola!+Quiero+una+demo+de+MesaBot"
 
 export function CTAFinal() {
   const sectionRef = useRef<HTMLDivElement>(null)
@@ -62,7 +62,7 @@ export function CTAFinal() {
             variant="outline"
             className="border-[#2A2F3E] bg-transparent text-white hover:bg-[#1A1F2E] hover:text-white px-8 py-6 text-lg"
           >
-            <a href="tel:+526683233902">
+            <a href="tel:+526681464573">
               <Phone className="mr-2 h-5 w-5" />
               Llamar ahora
             </a>

@@ -51,7 +51,7 @@ INFORMACIÓN SOBRE MESABOT:
 - ¿Funciona para varios locales? Sí. Podemos configurar para múltiples sucursales.
 
 **Contacto:**
-- WhatsApp: +52 668 323 3902
+- WhatsApp: +52 668 146 4573
 - Ubicación: Los Mochis, Sinaloa, México
 
 **Tu personalidad:**
@@ -61,7 +61,7 @@ INFORMACIÓN SOBRE MESABOT:
 - Si te preguntan algo que no sabes, sugiere contactar directamente por WhatsApp
 - Enfócate en ayudar a restaurantes a entender cómo MesaBot puede ayudarles
 - Usa emojis ocasionalmente para ser más amigable
-- Si el usuario quiere una demo o más información, sugiere contactar por WhatsApp al +52 668 323 3902`
+- Si el usuario quiere una demo o más información, sugiere contactar por WhatsApp al +52 668 146 4573`
 
 export async function POST(req: Request) {
   const { messages } = await req.json()

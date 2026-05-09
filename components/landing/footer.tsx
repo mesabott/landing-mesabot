@@ -14,7 +14,7 @@ const footerLinks = {
   ],
   contacto: [
     { label: "hola@mesabot.mx", href: "mailto:hola@mesabot.mx" },
-    { label: "+52 668 323 3902", href: "tel:+526683233902" },
+    { label: "+52 668 146 4573", href: "tel:+526681464573" },
     { label: "Los Mochis, Sinaloa", href: "#" },
   ],
 }
