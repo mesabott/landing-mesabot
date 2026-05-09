@@ -11,6 +11,7 @@ import { FAQ } from "@/components/landing/faq"
 import { CTAFinal } from "@/components/landing/cta-final"
 import { Footer } from "@/components/landing/footer"
 import { WhatsAppButton } from "@/components/landing/whatsapp-button"
+import { MesaBotChat } from "@/components/landing/mesabot-chat"
 
 export default function Home() {
   return (
@@ -28,6 +29,7 @@ export default function Home() {
       <CTAFinal />
       <Footer />
       <WhatsAppButton />
+      <MesaBotChat />
     </main>
   )
 }

@@ -5,7 +5,7 @@ import Link from "next/link"
 import { Menu, X } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-const WHATSAPP_LINK = "https://wa.me/526683233902?text=Hola!+Quiero+una+demo+de+MesaBot"
+const WHATSAPP_LINK = "https://wa.me/526681464573?text=Hola!+Quiero+una+demo+de+MesaBot"
 
 const navLinks = [
   { href: "#servicios", label: "Servicios" },
